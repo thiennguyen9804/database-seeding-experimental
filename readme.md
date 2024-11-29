@@ -5,3 +5,10 @@
 
 ## Phần code mình dùng để đưa dữ liệu vào database sqlite, cũng như database sqlite:
 
+## This is a piece of code for mapping data in a txt English-Vietnamese dictionary-file to object to be added to a relational database
+
+### The txt file itself: https://github.com/yenthanh132/avdict-database-sqlite-converter/blob/master/vietanh.txt
+### Before running the above code, make sure to scroll down to the end of the txt file and add 1 enter and 1 dot as below:
+![img.png](img.png)
+
+## The code I use to add said objects to the sqlite database and the database in and of itself:
